@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: '温越的链接工具',
+  title: 'Sink',
   documentation: 'https://docs.sink.cool',
   github: 'https://github.com/miantiao-me/sink',
   coffee: 'https://sink.cool/coffee',
